@@ -174,5 +174,6 @@ poetry.toml
 pyrightconfig.json
 
 /lab03/BSUV-Net-2.0.mdl
+/lab13/shapes_rotation
 
 # End of https://www.toptal.com/developers/gitignore/api/python
