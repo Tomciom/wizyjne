@@ -175,5 +175,7 @@ pyrightconfig.json
 
 /lab03/BSUV-Net-2.0.mdl
 /lab13/shapes_rotation
+/lab08/KITTI.tar.xz
+/lab08/KITTI
 
 # End of https://www.toptal.com/developers/gitignore/api/python
