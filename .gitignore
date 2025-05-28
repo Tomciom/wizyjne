@@ -177,5 +177,7 @@ pyrightconfig.json
 /lab13/shapes_rotation
 /lab08/KITTI.tar.xz
 /lab08/KITTI
-
+/lab10/neural_network/yolov3_training_last_c.weights
+/lab10/neural_network/yolov3_training_last_f.weights
+/lab10/neural_network/yolov3_training_last_t.weights
 # End of https://www.toptal.com/developers/gitignore/api/python
